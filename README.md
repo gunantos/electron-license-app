@@ -6,7 +6,7 @@
   <!-- <a href="https://license.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">License</h1>
+<h1 align="center">ELECTRON-LICENSE-APP</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gunantos/electron-license-app?color=56BEB8">
@@ -88,7 +88,7 @@ $ yarn start
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [ELECTRON-LICENSE-APP](LICENSE.md) file.
 
 Made with :heart: by <a href="https://github.com/gunantos" target="_blank">Gunanto Simamora</a>
 
