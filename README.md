@@ -9,19 +9,19 @@
 <h1 align="center">License</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gunantos/license?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gunantos/electron-license-app?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gunantos/license?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gunantos/electron-license-app?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gunantos/license?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gunantos/electron-license-app?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/gunantos/license?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/gunantos/electron-license-app?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/gunantos/license?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/gunantos/electron-license-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/gunantos/license?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/gunantos/electron-license-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/gunantos/license?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/gunantos/electron-license-app?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -72,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gunantos/license
+$ git clone https://github.com/gunantos/electron-license-app
 
 # Access
-$ cd license
+$ cd electron-license-app
 
 # Install dependencies
 $ yarn
